@@ -68,3 +68,5 @@ results/
 # Trained models
 models/
 weights/
+# Legacy files
+training/agrisight_camera_legacy.py
