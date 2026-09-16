@@ -1,0 +1,27 @@
+{
+    "cSpell.words": [
+        "Agri",
+        "AGRISIGHT",
+        "AVFOUNDATION",
+        "colorbar",
+        "figsize",
+        "fromarray",
+        "fscore",
+        "imshow",
+        "matplotlib",
+        "mobilenet",
+        "phash",
+        "pycache",
+        "pytest",
+        "randn",
+        "scikit",
+        "torchvision",
+        "ultralytics",
+        "venv",
+        "xlabel",
+        "xticks",
+        "xyxy",
+        "ylabel",
+        "yticks"
+    ]
+}
